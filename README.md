@@ -62,6 +62,10 @@ Data Analyst
 
 Email veerpalgill963@gmail.com
 
+www.linkedin.com/in/veerpal-gill
+
+
+
 
 
 
