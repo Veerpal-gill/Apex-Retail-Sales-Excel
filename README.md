@@ -55,6 +55,12 @@ Selections update the visuals and KPI cards, making it easy to investigate speci
 
 <img width="1052" height="491" alt="Dashboard" src="https://github.com/user-attachments/assets/ababec58-6f03-4ec1-b92d-a84f5e2e9364" />
 
+##  Authors & Contact
+veerpal Gill
+
+Data Analyst
+
+Email veerpalgill963@gmail.com
 
 
 
