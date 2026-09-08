@@ -1,81 +1,61 @@
- Veerpal Gill — Data Analytics Portfolio
+# Apex-Retail-Sales-Dashboard-Excel
 
-Welcome to my GitHub portfolio! I am a **Bachelor of Computer Application (BCA)** graduate currently building my skills in **Data Analytics**.
+An interactive retail analytics dashboard for monitoring sales, profit, quantity sold, regional performance, payment preferences, and salesperson results.
 
-## 👩‍💻 About Me
+## Overview
 
-I am an aspiring **Data Analyst / MIS Executive** with a background in computer applications and customer-facing experience. I am currently developing practical skills in data analysis and business reporting.
+The dashboard presents a concise view of retail performance, combining headline KPIs with category, region, payment-mode, and salesperson analysis. Use the slicers to narrow the report to the segments you want to explore.
 
-I enjoy learning new tools, working with data, and turning information into clear and useful insights.
+## Dashboard highlights
 
-## 🛠️ Skills
+| Metric | Value shown |
+| --- | ---: |
+| Total Sales | $93,859 |
+| Total Profit | $15,256 |
+| Quantity Sold | 260 |
 
-- **Microsoft Excel**
-  - Data Cleaning
-  - Data Validation
-  - XLOOKUP
-  - INDEX & MATCH
-  - Pivot Tables
-  - Charts & Basic Dashboards
-  - Data Organization and Reporting
-- **Power BI** — Currently Learning
-- Data Analysis
-- Data Cleaning
-- Reporting & MIS
-- Basic Computer Applications
+## Visuals
 
-## 📊 Projects
+- **Sales by Region** — compares sales across North, South, West, and East.
+- **Quantity by Payment** — displays the distribution of purchases made by card, cash, and online payment.
+- **Profit by Category** — highlights profitability for Clothing, Electronics, Furniture, Home Decor, Sports, and other categories.
+- **Sales by Salesperson** — compares sales achieved by John, David, Olivia, Sophia, and Michael.
 
-This repository will include projects that demonstrate my learning and practical skills in data analytics.
+## Filters
 
-### Planned Projects
+The report can be filtered by:
 
-- Excel Sales Analysis
-- Excel Employee Data Analysis
-- MIS Reporting Dashboard
-- Power BI Sales Dashboard
-- Data Cleaning Projects
-- Business Data Analysis
+- **Payment mode:** Card, Cash, or Online
+- **Region:** East, North, South, or West
+- **Category:** Clothing, Electronics, Furniture, Home Decor, Sports, and others
 
-## 🎓 Education
+Selections update the visuals and KPI cards, making it easy to investigate specific sales segments.
 
-**Bachelor of Computer Application (BCA)**
+## Use cases
 
-**APTECH — Computer Programming**
+- Track retail revenue, profit, and units sold
+- Compare regional sales performance
+- Understand customers' preferred payment methods
+- Identify profitable product categories
+- Recognize high-performing salespeople
 
-## 💼 Experience
+## Data model
 
-**Cashier — Walmart, Chantilly, VA**  
-*June 2021 – February 2022*
+| Field | Description |
+| --- | --- |
+| Sales | Revenue from retail transactions |
+| Profit | Profit earned from each transaction |
+| Quantity | Units sold |
+| Region | Geographic sales area |
+| Payment Mode | Customer payment method |
+| Category | Product group |
+| Salesperson | Team member responsible for the sale |
 
-- Processed customer transactions accurately using cash, check, and credit/debit card payments.
-- Maintained an accurate and balanced cash drawer.
-- Assisted customers and resolved checkout-related issues.
-- Worked effectively with team members in a fast-paced environment.
-- Maintained organized checkout areas and supported front-lane operations.
+## Screenshot
 
-## 🌱 Currently Learning
+<img width="1052" height="491" alt="Dashboard" src="https://github.com/user-attachments/assets/ababec58-6f03-4ec1-b92d-a84f5e2e9364" />
 
-I am currently focused on improving my skills in:
 
-1. Microsoft Excel
-2. Data Analysis
-3. MIS Reporting
-4. Power BI
-5. Data Visualization
-6. Business Intelligence
 
-## 🎯 Career Goal
-
-My goal is to begin my career as a **Data Analyst or MIS Executive**, where I can use data, reporting, and analytical skills to support business decisions and continuously grow professionally.
-
-## 📫 Connect With Me
-
-- **LinkedIn:** www.linkedin.com/in/veerpal-glll
-- **GitHub:** https://github.com/Veerpal-gill
-
-## ⭐ Thank You
-
-Thank you for visiting my GitHub profile. I am continuously learning, building projects, and improving my data analytics skills.
 
 
