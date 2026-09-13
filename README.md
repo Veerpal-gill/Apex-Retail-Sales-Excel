@@ -58,7 +58,7 @@ Selections update the visuals and KPI cards, making it easy to investigate speci
 ##  Authors & Contact
 veerpal Gill
 
-Data Analyst
+Aspiring Data Analyst
 
 Email veerpalgill963@gmail.com
 
